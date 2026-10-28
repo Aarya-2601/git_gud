@@ -1,4 +1,4 @@
-# Git Gud Workshop
+# Kuch naya seekhne milega workshop
 
 I am the only author of this file
 
