@@ -1,5 +1,7 @@
 # Git Gud Workshop
 
+I am the only author of this file
+
 A hands-on introduction to Git, GitHub, and Python for first-year engineering students. No prior experience needed. You'll go from your very first `git init` to opening pull requests, and from `print("hello")` to writing your own classes, one concept at a time.
 
 ## What is Git?
