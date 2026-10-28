@@ -1,4 +1,4 @@
-# hey fys! 👋 welcome to git gud
+# hey Lakshya! 👋 welcome to git gud
 
 welcome to git, where you can break your code, track exactly what you broke, and occasionally blame your past self for it.
 
